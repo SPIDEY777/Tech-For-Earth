@@ -10,6 +10,14 @@ body {
     background-color: #f9fafb;
     color: #333;
 }
+/* Set background image */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('background.jpg'); /* Replace 'background.jpg' with the actual filename of your background image */
+    background-size: cover; /* Cover the entire viewport with the background image */
+    background-position: center; /* Center the background image horizontally and vertically */
+    color: #333; /* Set text color */
+}
 
 /* Center content */
 .container {
